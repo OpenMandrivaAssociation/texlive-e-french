@@ -1,6 +1,6 @@
 Name:		texlive-e-french
 Version:	52027
-Release:	1
+Release:	2
 Summary:	Comprehensive LaTeX support for French-language typesetting
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/e-french
