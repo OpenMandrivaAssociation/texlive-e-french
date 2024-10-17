@@ -3,7 +3,7 @@ Version:	52027
 Release:	2
 Summary:	Comprehensive LaTeX support for French-language typesetting
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/e-french
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/e-french
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/e-french.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/e-french.doc.r%{version}.tar.xz
